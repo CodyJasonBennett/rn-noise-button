@@ -1,0 +1,14 @@
+.DS_Store
+node_modules
+.expo
+*.log
+yarn.lock
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
